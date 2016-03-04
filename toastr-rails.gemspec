@@ -26,6 +26,8 @@ Gem::Specification.new do |s|
     "lib/toastr-rails.rb",
     "lib/toastr/rails.rb",
     "lib/toastr/rails/engine.rb",
+    "lib/toastr/railtie.rb",
+    "lit/toastr/toastr_helpers.rb",
     "toastr-rails.gemspec",
     "vendor/assets/javascripts/toastr.min.js",
     "vendor/assets/stylesheets/toastr.min.css"
