@@ -25,6 +25,11 @@ For other API calls, see the [demo](http://CodeSeven.github.com/toastr).
 
         // Display an info toast with no title
         toastr.info('Are you the 6 fingered man?')
+        
+4. to display the default flash notice and alert messages as a toast add
+the following line to your application.html layout view
+
+    = toastr_flash_messages
 
 ### Other Options
 
