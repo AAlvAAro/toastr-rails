@@ -1,5 +1,5 @@
 module Toastr
-  module ToastrHelpers
+  module ToastrMessages
     def toastr_flash_messages
       flash_messages = []
       flash.each do |type, message|
